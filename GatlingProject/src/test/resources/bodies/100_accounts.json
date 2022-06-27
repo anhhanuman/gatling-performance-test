@@ -1,0 +1,402 @@
+[
+ {
+   "id": "a01190000071M30AA1",
+   "company_name": "Walmart"
+ },
+ {
+   "id": "a01190000071M30AA2",
+   "company_name": "Exxon Mobil"
+ },
+ {
+   "id": "a01190000071M30AA3",
+   "company_name": "Chevron"
+ },
+ {
+   "id": "a01190000071M30AA4",
+   "company_name": "Berkshire Hathaway"
+ },
+ {
+   "id": "a01190000071M30AA5",
+   "company_name": "Apple"
+ },
+ {
+   "id": "a01190000071M30AA6",
+   "company_name": "General Motors"
+ },
+ {
+   "id": "a01190000071M30AA7",
+   "company_name": "Phillips 66"
+ },
+ {
+   "id": "a01190000071M30AA8",
+   "company_name": "General Electric"
+ },
+ {
+   "id": "a01190000071M30AA9",
+   "company_name": "Ford Motor"
+ },
+ {
+   "id": "a01190000071M30AA10",
+   "company_name": "CVS Health"
+ },
+ {
+   "id": "a01190000071M30AA11",
+   "company_name": "McKesson"
+ },
+ {
+   "id": "a01190000071M30AA12",
+   "company_name": "AT&T"
+ },
+ {
+   "id": "a01190000071M30AA13",
+   "company_name": "Valero Energy"
+ },
+ {
+   "id": "a01190000071M30AA14",
+   "company_name": "UnitedHealth Group"
+ },
+ {
+   "id": "a01190000071M30AA15",
+   "company_name": "Verizon"
+ },
+ {
+   "id": "a01190000071M30AA16",
+   "company_name": "AmerisourceBergen"
+ },
+ {
+   "id": "a01190000071M30AA17",
+   "company_name": "Fannie Mae"
+ },
+ {
+   "id": "a01190000071M30AA18",
+   "company_name": "Costco"
+ },
+ {
+   "id": "a01190000071M30AA19",
+   "company_name": "HP"
+ },
+ {
+   "id": "a01190000071M30AA20",
+   "company_name": "Kroger"
+ },
+ {
+   "id": "a01190000071M30AA21",
+   "company_name": "JP Morgan Chase"
+ },
+ {
+   "id": "a01190000071M30AA22",
+   "company_name": "Express Scripts Holding"
+ },
+ {
+   "id": "a01190000071M30AA23",
+   "company_name": "Bank of America Corp."
+ },
+ {
+   "id": "a01190000071M30AA24",
+   "company_name": "IBM"
+ },
+ {
+   "id": "a01190000071M30AA25",
+   "company_name": "Marathon Petroleum"
+ },
+ {
+   "id": "a01190000071M30AA26",
+   "company_name": "Cardinal Health"
+ },
+ {
+   "id": "a01190000071M30AA27",
+   "company_name": "Boeing"
+ },
+ {
+   "id": "a01190000071M30AA28",
+   "company_name": "Citigroup"
+ },
+ {
+   "id": "a01190000071M30AA29",
+   "company_name": "Amazon"
+ },
+ {
+   "id": "a01190000071M30AA30",
+   "company_name": "Wells Fargo"
+ },
+ {
+   "id": "a01190000071M30AA31",
+   "company_name": "Microsoft"
+ },
+ {
+   "id": "a01190000071M30AA32",
+   "company_name": "Procter & Gamble"
+ },
+ {
+   "id": "a01190000071M30AA33",
+   "company_name": "Home Depot"
+ },
+ {
+   "id": "a01190000071M30AA34",
+   "company_name": "Archer Daniels Midland"
+ },
+ {
+   "id": "a01190000071M30AA35",
+   "company_name": "Walgreens"
+ },
+ {
+   "id": "a01190000071M30AA36",
+   "company_name": "Target"
+ },
+ {
+   "id": "a01190000071M30AA37",
+   "company_name": "Johnson & Johnson"
+ },
+ {
+   "id": "a01190000071M30AA38",
+   "company_name": "Anthem"
+ },
+ {
+   "id": "a01190000071M30AA39",
+   "company_name": "MetLife"
+ },
+ {
+   "id": "a01190000071M30AA40",
+   "company_name": "Alphabet"
+ },
+ {
+   "id": "a01190000071M30AA41",
+   "company_name": "State Farm Insurance Cos."
+ },
+ {
+   "id": "a01190000071M30AA42",
+   "company_name": "Freddie Mac"
+ },
+ {
+   "id": "a01190000071M30AA43",
+   "company_name": "Comcast"
+ },
+ {
+   "id": "a01190000071M30AA44",
+   "company_name": "PepsiCo"
+ },
+ {
+   "id": "a01190000071M30AA45",
+   "company_name": "United Technologies"
+ },
+ {
+   "id": "a01190000071M30AA46",
+   "company_name": "AIG"
+ },
+ {
+   "id": "a01190000071M30AA47",
+   "company_name": "UPS"
+ },
+ {
+   "id": "a01190000071M30AA48",
+   "company_name": "Dow Chemical"
+ },
+ {
+   "id": "a01190000071M30AA49",
+   "company_name": "Aetna"
+ },
+ {
+   "id": "a01190000071M30AA50",
+   "company_name": "Lowe's"
+ },
+ {
+   "id": "a01190000071M30AA51",
+   "company_name": "ConocoPhillips"
+ },
+ {
+   "id": "a01190000071M30AA52",
+   "company_name": "Intel"
+ },
+ {
+   "id": "a01190000071M30AA53",
+   "company_name": "Energy Transfer Equity"
+ },
+ {
+   "id": "a01190000071M30AA54",
+   "company_name": "Caterpillar"
+ },
+ {
+   "id": "a01190000071M30AA55",
+   "company_name": "Prudential Financial"
+ },
+ {
+   "id": "a01190000071M30AA56",
+   "company_name": "Pfizer"
+ },
+ {
+   "id": "a01190000071M30AA57",
+   "company_name": "Walt Disney"
+ },
+ {
+   "id": "a01190000071M30AA58",
+   "company_name": "Humana"
+ },
+ {
+   "id": "a01190000071M30AA59",
+   "company_name": "Enterprise Products Partners"
+ },
+ {
+   "id": "a01190000071M30AA60",
+   "company_name": "Cisco Systems"
+ },
+ {
+   "id": "a01190000071M30AA61",
+   "company_name": "Sysco"
+ },
+ {
+   "id": "a01190000071M30AA62",
+   "company_name": "Ingram Micro"
+ },
+ {
+   "id": "a01190000071M30AA63",
+   "company_name": "Coca-Cola"
+ },
+ {
+   "id": "a01190000071M30AA64",
+   "company_name": "Lockheed Martin"
+ },
+ {
+   "id": "a01190000071M30AA65",
+   "company_name": "FedEx"
+ },
+ {
+   "id": "a01190000071M30AA66",
+   "company_name": "Johnson Controls"
+ },
+ {
+   "id": "a01190000071M30AA67",
+   "company_name": "Plains GP Holdings"
+ },
+ {
+   "id": "a01190000071M30AA68",
+   "company_name": "World Fuel Services"
+ },
+ {
+   "id": "a01190000071M30AA69",
+   "company_name": "CHS"
+ },
+ {
+   "id": "a01190000071M30AA70",
+   "company_name": "American Airlines Group"
+ },
+ {
+   "id": "a01190000071M30AA71",
+   "company_name": "Merck"
+ },
+ {
+   "id": "a01190000071M30AA72",
+   "company_name": "Best Buy"
+ },
+ {
+   "id": "a01190000071M30AA73",
+   "company_name": "Delta Air Lines"
+ },
+ {
+   "id": "a01190000071M30AA74",
+   "company_name": "Honeywell International"
+ },
+ {
+   "id": "a01190000071M30AA75",
+   "company_name": "HCA Holdings"
+ },
+ {
+   "id": "a01190000071M30AA76",
+   "company_name": "Goldman Sachs Group"
+ },
+ {
+   "id": "a01190000071M30AA77",
+   "company_name": "Tesoro"
+ },
+ {
+   "id": "a01190000071M30AA78",
+   "company_name": "Liberty Mutual Insurance Group"
+ },
+ {
+   "id": "a01190000071M30AA79",
+   "company_name": "United Continental Holdings"
+ },
+ {
+   "id": "a01190000071M30AA80",
+   "company_name": "New York Life Insurance"
+ },
+ {
+   "id": "a01190000071M30AA81",
+   "company_name": "Oracle"
+ },
+ {
+   "id": "a01190000071M30AA82",
+   "company_name": "Morgan Stanley"
+ },
+ {
+   "id": "a01190000071M30AA83",
+   "company_name": "Tyson Foods"
+ },
+ {
+   "id": "a01190000071M30AA84",
+   "company_name": "Safeway"
+ },
+ {
+   "id": "a01190000071M30AA85",
+   "company_name": "Nationwide"
+ },
+ {
+   "id": "a01190000071M30AA86",
+   "company_name": "Deere"
+ },
+ {
+   "id": "a01190000071M30AA87",
+   "company_name": "DuPont"
+ },
+ {
+   "id": "a01190000071M30AA88",
+   "company_name": "American Express"
+ },
+ {
+   "id": "a01190000071M30AA89",
+   "company_name": "Allstate"
+ },
+ {
+   "id": "a01190000071M30AA90",
+   "company_name": "Cigna"
+ },
+ {
+   "id": "a01190000071M30AA91",
+   "company_name": "Mondelez International"
+ },
+ {
+   "id": "a01190000071M30AA92",
+   "company_name": "TIAA-CREF"
+ },
+ {
+   "id": "a01190000071M30AA93",
+   "company_name": "INTL FCStone"
+ },
+ {
+   "id": "a01190000071M30AA94",
+   "company_name": "Massachusetts Mutual Life Insurance"
+ },
+ {
+   "id": "a01190000071M30AA95",
+   "company_name": "DirecTV"
+ },
+ {
+   "id": "a01190000071M30AA96",
+   "company_name": "Halliburton"
+ },
+ {
+   "id": "a01190000071M30AA97",
+   "company_name": "Twenty-First Century Fox"
+ },
+ {
+   "id": "a01190000071M30AA98",
+   "company_name": "3M"
+ },
+ {
+   "id": "a01190000071M30AA99",
+   "company_name": "Sears Holdings"
+ },
+ {
+   "id": "a01190000071M30AA100",
+   "company_name": "General Dynamics"
+ }
+]

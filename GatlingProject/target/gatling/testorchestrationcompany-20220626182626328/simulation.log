@@ -1,0 +1,4 @@
+RUN	simulations.TestOrchestrationCompany	testorchestrationcompany	1656267986328	test	3.7.6
+USER	get enriched company name	START	1656267989272
+REQUEST		get company name	1656267989314	1656267992992	KO	status.find.in([200, 209], 304), found 405
+USER	get enriched company name	END	1656267993092

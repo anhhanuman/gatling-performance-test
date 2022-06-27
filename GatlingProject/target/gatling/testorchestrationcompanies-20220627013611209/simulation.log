@@ -1,0 +1,13 @@
+RUN	simulations.TestOrchestrationCompanies	testorchestrationcompanies	1656293771209	test	3.7.6
+USER	get enriched companies	START	1656293776975
+REQUEST		get company name	1656293776997	1656293780823	OK	 
+REQUEST		Call again	1656293780889	1656293781472	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293781501	1656293782071	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293782074	1656293782650	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293782655	1656293783226	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293783230	1656293783807	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293783812	1656293784370	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293784373	1656293784941	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293784945	1656293785518	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+REQUEST		Call again	1656293785522	1656293786101	KO	jsonPath($.enrichments[0].status).find.is(COMPLETED), but actually found REQUESTED
+USER	get enriched companies	END	1656293786111

@@ -1,0 +1,4 @@
+RUN	simulations.TestOrchestrationCompany	testorchestrationcompany	1656268048483	test	3.7.6
+USER	get enriched company name	START	1656268051345
+REQUEST		get company name	1656268051367	1656268055307	KO	jsonPath($.enrichments[:0].status).find.exists, found nothing
+USER	get enriched company name	END	1656268055423

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestOrchestrationCompanies",
+  "simulationId": "testorchestrationcompanies",
+  "start": 1656303924868,
+  "description": "test accounts 100",
+  "scenarios": ["get enriched companies"],
+  "assertions": [
+
+  ]
+}

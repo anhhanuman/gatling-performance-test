@@ -1,0 +1,4 @@
+RUN	simulations.TestAPISimulation	testapisimulation	1656251780289	 	3.7.6
+USER	get company name	START	1656251783430
+REQUEST		get company name in data service	1656251783461	1656251787332	OK	 
+USER	get company name	END	1656251787375

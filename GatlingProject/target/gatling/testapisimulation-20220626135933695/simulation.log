@@ -1,0 +1,4 @@
+RUN	simulations.TestAPISimulation	testapisimulation	1656251973695	test company	3.7.6
+USER	get company name	START	1656251976381
+REQUEST		get company name in data service	1656251976413	1656251980213	KO	status.find.is(400), but actually found 200
+USER	get company name	END	1656251980274

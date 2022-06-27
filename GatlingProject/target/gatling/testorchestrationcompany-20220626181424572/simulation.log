@@ -1,0 +1,4 @@
+RUN	simulations.TestOrchestrationCompany	testorchestrationcompany	1656267264572	test orches	3.7.6
+USER	get enriched company name	START	1656267267893
+REQUEST		get company name	1656267267931	1656267272115	KO	status.find.in([200, 209], 304), found 405
+USER	get enriched company name	END	1656267272232

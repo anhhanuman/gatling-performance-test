@@ -1,0 +1,5 @@
+RUN	simulations.TestOrchestrationCompanies	testorchestrationcompanies	1656297405756	test	3.7.6
+ERROR	get company name: Failed to build request: No attribute named 'id' is defined 	1656297408595
+USER	get enriched companies	START	1656297408577
+ERROR	get company name: Failed to build request: No attribute named 'id' is defined 	1656297409614
+USER	get enriched companies	END	1656297410635

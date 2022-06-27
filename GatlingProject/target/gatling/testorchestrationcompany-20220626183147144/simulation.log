@@ -1,0 +1,4 @@
+RUN	simulations.TestOrchestrationCompany	testorchestrationcompany	1656268307144	test	3.7.6
+USER	get enriched company name	START	1656268310015
+REQUEST		get company name	1656268310060	1656268314014	OK	 
+USER	get enriched company name	END	1656268314047
